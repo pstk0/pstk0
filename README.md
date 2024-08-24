@@ -40,9 +40,9 @@
       <br>
       <br>
       os:<br>
-        > win11 pro (main).
-        > macOS sonoma.
-        > ubuntu & kali linux.
+        > win11 pro (main).<br>
+        > macOS sonoma.<br>
+        > ubuntu & kali linux.<br>
      <br>
      day to day tools:<br>
           - <a href="https://remnux.org/">slack</a> - messages / communication.<br> 
