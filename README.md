@@ -12,7 +12,7 @@
              - hobbies: iot, robotics & 3d printing.<br>
              - pt-br, english, french & italian.<br>
       <br>
-<img src="https://github.com/pstk0/pstk0/blob/main/imgs/eth-badge.png" alt="drawing" width="100" align="center"><br>
+<img src="https://github.com/pstk0/pstk0/blob/main/imgs/eth-badge.png" alt="drawing" width="115" align="center"><br>
      <a href="https://etherscan.io/address/0x50B3BcC0b0B7b6781BdDCefa4D45eF9Ef93954b3">Support me here.</a><br>
      <br>
      <br>
