@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://github.com/pstk0/pstk0/blob/main/img2.png" width="500" align="left">
+ <img src="https://github.com/pstk0/pstk0/blob/main/imgs/img2.png" width="500" align="left">
   <p float="left">
     <samp>
       hi. 
@@ -12,7 +12,7 @@
              - hobbies: iot, robotics & 3d printing.<br>
              - pt-br, english, french & italian.<br>
       <br>
-<img src="https://camo.githubusercontent.com/04b361ea4c264b04d740f69b474a78a6f1ca127909edeae7554065de19bb3aee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d7768697465" align="center"><br>
+<img src="https://github.com/pstk0/pstk0/blob/main/imgs/eth-badge.png" alt="drawing" width="200" align="center"><br>
      <a href="https://etherscan.io/address/0x50B3BcC0b0B7b6781BdDCefa4D45eF9Ef93954b3">Support me here.</a><br>
      <br>
      <br>
