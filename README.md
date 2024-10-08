@@ -3,17 +3,14 @@
       hi. 
       <br>
       about me:<br>
-             - bachelor of science - computer science.<br>
-             - master's degree in software engineering.<br>
-             - working as frontend software engineer.<br>
-             - cybersecurity researcher - malware analysis and reverse engineering.<br>
-             - hobbies: iot, robotics & 3d printing.<br>
-             - pt-br, english, french & italian.<br>
+        - senior software engineer.<br>
+        - bachelor of science - computer science.<br>
+        - master's degree in software engineering.<br>
+        - cybersecurity researcher<br>
+        - pt-br, english, french & italian.<br>
       <br>
 <img src="https://github.com/pstk0/pstk0/blob/main/imgs/eth-badge.png" alt="drawing" width="115" align="center"><br>
      <a href="https://etherscan.io/address/0x50B3BcC0b0B7b6781BdDCefa4D45eF9Ef93954b3">Support me here.</a><br>
-     <br>
-     <br>
      <br>
       programming languages:<br>
         > javaScript/typeScript, python, c/c++, golang, swift, kotlin.
@@ -28,19 +25,17 @@
         > mysql, sql server, postgresql, mongodb, oracle, firebase.
       <br>
       cloud and devops:<br>
-        > azure, aws, google cloud platform, docker, kubernetes, jenkins.
+        > aws, google cloud platform, docker.
       <br>
       testing tools:<br>
-        > jest, selenium, mocha, jest, jamine, pytest.
+        > jest, selenium, pytest.
       <br>
       development kit:<br>
-        > vscode, xcode, intellij idea, eclipse, github, gitlab, git.
-      <br>
+        > vscode, xcode, github, gitlab, git.
       <br>
       os:<br>
         > win11 pro (main).<br>
         > macOS sonoma.<br>
-        > ubuntu & kali linux.<br>
      <br>
      day to day tools:<br>
           - <a href="https://remnux.org/">slack</a> - messages / communication.<br> 
